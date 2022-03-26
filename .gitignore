@@ -1,4 +1,0 @@
-#ignorando arquivo de senha
-bd.sql
-#ignorando a pasta secreta
-/pasta/*
